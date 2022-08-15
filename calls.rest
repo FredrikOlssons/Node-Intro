@@ -1,0 +1,10 @@
+GET http://localhost:3000/api/Greetings
+
+###
+
+GET http://localhost:3000/api/name/Fredrik
+
+###
+
+GET http://localhost:3000/api/test/?valueOne=TestString
+//valueOne = Nyckel
